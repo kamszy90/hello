@@ -3,21 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>ZADANIE 1 - KAMIL SZYMECKI</title>
+<link rel="stylesheet" href="tabela css.css">
 
-    <style>
-      p span {
-        display:block;
-        text-transform:uppercase;
-        width:14px;
-        font-size:15px;
-        line-height:20px;
-        text-align:center;
-        padding:5px;
-        border:1px solid #AAA;
-        border-radius:0 6px 0 6px;
-        word-wrap:break-word;
-      }
-    </style>
   </head>
 
 	<body>
@@ -34,7 +21,8 @@
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" colspan=5 align="center" valign=bottom><font color="#000000">label02</font></td>
 		</tr>
 	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" rowspan=4 height="80" align="center" valign=bottom><font color="#000000"><p><span>some text</span></p></font></td>
+	
+<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" rowspan=4 class="rotate"><div><span>some text</span></div></font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" rowspan=2 align="center" valign=bottom><font color="#000000">item1</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom><font color="#000000">description</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom><font color="#000000">description</font></td>
@@ -62,7 +50,7 @@
 	</tr>
 	<tr>
 
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" rowspan=4 height="80" align="center" valign=bottom><font color="#000000"><p><span>some text</span></p></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" rowspan=4 class="rotate"><div><span>some text</span></div></font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" rowspan=2 align="center" valign=bottom><font color="#000000">item3</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom><font color="#000000">description</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom><font color="#000000">description</font></td>
