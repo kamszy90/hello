@@ -2,19 +2,29 @@
 <html>
 	<head>
 
+
+
 <img src="https://tajemnice.robertbrzoza.pl/wp-content/uploads/2016/04/bajka820.jpg" alt="Tu podaj tekst alternatywny">
 		<meta charset="UTF-8">
 		<title>...</title>
 	</head>
+
+<body bgcolor="orange"
+
 	<body>
 		<div id="top">
+
+<font color="red">
 			<header id="NAGLOWEK">Najlepsza Strona Internetowa z Jednym Wierszem</header>
 
 
 			<nav id="MENU">
 
+</font>
+
 </br>
 
+<font color="green">
 
 „Taka moda jest na świecie,
 żeby siedzieć w internecie.
@@ -88,14 +98,17 @@ no bo biedna ... wpadła w sieć.
 </br>
 </br>
 
+</font>
 
+
+<font color="teal">
 
 			<aside id="INFORMACJE">AUTOR: NIEZNANY</aside>
 
 			<article id="TRESC">Utworzona przez Kamila S</article>
 
 			<footer id="STOPKA">Najlepsza Stona WWW</footer>
-
+</font>
 
 		</div>
 	</body>
